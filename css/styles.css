@@ -242,6 +242,7 @@ img {
   margin-bottom: 30px;
 
   background-color: var(--bgc-icons);
+  border-radius: 4px;
 }
 
 .features-title {
@@ -380,14 +381,13 @@ img {
 
   color: var(--secondary-color-text);
 }
+
 .clients-list {
   display: flex;
   justify-content: center;
   gap: 30px;
 }
 
-.clients-item {
-}
 .clients-link {
   display: flex;
   justify-content: center;
